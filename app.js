@@ -1,5 +1,6 @@
 //initial count
 let count = 0
+console.log("counter", count);
 
 //select value and buttons
 const value = document.querySelector("#value")
